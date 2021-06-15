@@ -1,0 +1,9 @@
+/Users/ramurayudu/Desktop/MyCode/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/bin/Debug/netstandard2.0/ImageGallery.Model.deps.json
+/Users/ramurayudu/Desktop/MyCode/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/bin/Debug/netstandard2.0/ImageGallery.Model.dll
+/Users/ramurayudu/Desktop/MyCode/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/bin/Debug/netstandard2.0/ImageGallery.Model.pdb
+/Users/ramurayudu/Desktop/MyCode/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.csprojAssemblyReference.cache
+/Users/ramurayudu/Desktop/MyCode/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.AssemblyInfoInputs.cache
+/Users/ramurayudu/Desktop/MyCode/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.AssemblyInfo.cs
+/Users/ramurayudu/Desktop/MyCode/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.csproj.CoreCompileInputs.cache
+/Users/ramurayudu/Desktop/MyCode/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.dll
+/Users/ramurayudu/Desktop/MyCode/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.pdb

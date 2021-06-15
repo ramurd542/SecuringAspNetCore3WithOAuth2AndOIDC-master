@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{5BF03B80-1A66-4E80-9BBB-4D7575AFFD1F}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.ImageGallery.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../IDPProject/Jcr.IDP/Quickstart/TestUsers.cs">
+    <Files>
+      <File FileName="../../IDPProject/Jcr.IDP/Startup.cs" Line="59" Column="16" />
+      <File FileName="../../IDPProject/Jcr.IDP/Program.cs" Line="38" Column="1" />
+      <File FileName="../../IDPProject/Jcr.IDP/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="../../IDPProject/Jcr.IDP/Config.cs" Line="12" Column="58" />
+      <File FileName="../../IDPProject/Jcr.IDP/Quickstart/TestUsers.cs" Line="49" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImageGallery" expanded="True">
+            <Node name="Jcr.IDP" expanded="True">
+              <Node name="Quickstart" expanded="True">
+                <Node name="TestUsers.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Jcr.IDP PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
